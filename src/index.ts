@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-export default function run(args: string[]) {
+export default function run(args: string[]): void {
   console.log(args);
 }
 
